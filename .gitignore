@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.db
+*.db-wal
+*.db-shm
+*.log
+data/
+demo/_video/
+*.webm
+*.bak_*
+.DS_Store
+eval/results_*.json
