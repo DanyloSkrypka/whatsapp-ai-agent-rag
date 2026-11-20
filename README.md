@@ -6,7 +6,9 @@ The demo company is a made-up language school in Hamburg, *Nordlicht Language Sc
 
 ![Demo: client asks in EN / DE / RU, gets answers with sources, a hand-over and a hot lead](docs/demo.gif)
 
-▶️ **Full demo video (about 47 s, 1080p 60 fps):** [`demo.mp4`](demo.mp4)
+▶️ **Full demo video (about 47 s, 1080p 60 fps):**
+
+https://github.com/user-attachments/assets/d9e4013f-57ed-47a6-bd0c-d398f6f0654e
 
 | Answer + source | Honest hand-over |
 |---|---|
